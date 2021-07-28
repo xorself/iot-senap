@@ -1,5 +1,5 @@
 # iot-senap
-Tiny class framework for IOT sensor and platform abstractions.
+Tiny class framework for IOT sensor and platform abstractions developed for a university project at LNU.
 
 ## Current Status
 
