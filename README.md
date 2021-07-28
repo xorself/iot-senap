@@ -15,3 +15,4 @@ Platforms
  
  JurassicPork, [dht.py](https://github.com/JurassicPork/DHT_PyCom/tree/pulses_get)
  
+ Ubidots transmission code inspired and extended from Ubidots tutorial found [here](https://help.ubidots.com/en/articles/961994-connect-any-pycom-board-to-ubidots-using-wi-fi-over-http)
