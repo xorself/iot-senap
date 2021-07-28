@@ -1,7 +1,7 @@
 # iot-senap
 Tiny library for IOT sensors and platforms. 
 
-Current support:
+Currently includes:
 
 Sensors
 * LDR
